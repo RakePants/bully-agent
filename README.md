@@ -11,4 +11,4 @@ An agent for a boxing game played in `pettingzoo.atari` trained with reinforceme
 `Python`, `PyTorch`, `Numpy`, `Pandas`, `IPython`
 
 ## Results
-The model has achieved the 5 spot in a contest between AI course participants.
+The model has achieved the number 5 spot in a contest between AI course participants.
