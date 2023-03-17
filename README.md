@@ -1,5 +1,5 @@
 # bully-agent
-An agent for a `pettingzoo.atari`'s boxing game. Trained with reinforcement learning.
+An agent for `pettingzoo.atari`'s boxing game. Trained with reinforcement learning.
 
 ## Contents:
 - `agent_learning.ipynb` - contains the process of creating and training the model using reinforcemnt learning;
